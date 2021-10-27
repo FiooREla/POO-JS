@@ -137,7 +137,7 @@ class BasicStudent extends Student{
             console.warn("Lo sentimos, "+ this.name + " no puedes tomar cursos en ingles");
             
         }
-    }
+    } 
 }
 
 class ExpertStudent extends Student{
